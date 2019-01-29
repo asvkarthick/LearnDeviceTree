@@ -1,0 +1,7 @@
+/dts-v1/;
+
+/ {
+	node {
+		property = <1>;
+	};
+};
